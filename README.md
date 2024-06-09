@@ -4,3 +4,6 @@ This project seeks to transform supply chain management by harnessing data-drive
 
 # Processed Dataset Link:
 https://ad8ckn4qv8f5zms.sg.qlikcloud.com/sense/app/d41a1e25-594f-42fd-9f24-8074bbaf9841
+
+# Video Link
+https://drive.google.com/file/d/1CpJARh_vzUu1xXfSZdz2dDBeOV96Mtva/view?usp=sharing
